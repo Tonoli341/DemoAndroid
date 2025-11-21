@@ -16,3 +16,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "LogisticsDemo"
 include(":app")
+include(":server")
